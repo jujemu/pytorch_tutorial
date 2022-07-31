@@ -1,4 +1,5 @@
-22. 7. 26 ~
+2022 7 26 ~
+
 # Pytorch
 ## Quick Start
 ___classification model for FashionMNIST___  

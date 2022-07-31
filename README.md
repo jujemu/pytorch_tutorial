@@ -2,7 +2,7 @@
 
 # Pytorch
 ## Quick Start
-___classification model for FashionMNIST___  
+___Model classifying FashionMNIST___  
 _overall modeling tutorial_  
 
 In pytorch, we should get data into 'device', 'cuda' or 'cpu', using method '.to()'  
